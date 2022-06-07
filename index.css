@@ -1,0 +1,14 @@
+.name{
+    text-align: center;
+    font-family: "sacramento",cursive;
+    width: fit-content;
+}
+.namepic{
+    float: left;
+    position: relative;
+    width: fit-content;
+    padding-left: 5%;
+}
+.namepic{
+    padding-right: 55px;
+}
