@@ -12,3 +12,27 @@
 .namepic{
     padding-right: 55px;
 }
+section h5{
+    opacity: 65%;
+}
+.sec-title{
+    text-align: center;
+    background-color: skyblue;
+}
+.sectioncontainer{
+    margin-bottom: 2%;
+}
+.p-3{
+    padding: 1em!important;
+    padding-top: 1em !important;
+    padding-right: 1em !important;
+    padding-bottom: 1em !important;
+    padding-left: 1em !important;
+}
+.aboutcontainer{
+    width: 75%;
+    padding-right: var(--bs-gutter-x,.75rem);
+    padding-left: var(--bs-gutter-x,.75rem);
+    margin-right: auto;
+    margin-left: auto;
+}
